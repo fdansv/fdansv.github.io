@@ -1,0 +1,44 @@
+Francisco Dans
+Born January 9th 1990 in Santiago de Compostela, Galicia (Spain)
+fdansv@gmail.com - francisco.dance - @fdans
+
+History
+2014 - present
+Carto
+Platform Engineer, Rendering
+At Carto my main function is to develop Javascript libraries capable of rendering, using technologies like SVG and Canvas, any map produced by our users in the editor. I'm involved in a number of projects that are crucial to Carto's mission:
+- d3.cartodb - Our client side rendering library, powered by d3, which I began building last year and it's already in production, steadily replacing our server-side produced tiles.
+- Torque.js - I'm the sole maintainer of Carto's library to generate time-series, animated maps with millions of points in Canvas.
+- Deep-insights.js - Our statistics dashboard library to gain instant knowledge about your map.
+- Windshaft & the SQL API - Since I entered Carto I've been part of development team of our two node.js APIs: Windshaft, our maps and tiles API, and Carto's SQL API, one of the elements that makes Carto's product offering so unique.
+
+2013 - 2014
+Engineering Consultant
+- Mapbox
+For six months I led development of the foundations of Mapbox's Android SDK, which involved the construction of an all-new library to bring the company's maps to the Android community, in a completely open source project. I also had the opportunity of coordinating with exciting startups to integrate their maps, like Pinterest, Foursquare or Strava.
+- Drivescribe
+I spent some time coding up the navigation engine for the prototype of an app to improve drive safety. This included writing spatial Java libraries as well as implementing modern practices in the project like Git and testing frameworks.
+- Mapzen
+Prior to joining Carto, Mapzen hired me to work on Pelias, their geographical search engine and geocoder. My function was to optimize their use of Lucene and ElasticSearch to improve the relevance of the geocoder's results. In those months I had the chance to learn more about document retrieval and natural language processing.
+
+2012 - 2013
+Images&CO
+Junior Web Engineer
+I worked for almost a year in a small web development shop in London, where I had the chance to get a lot of experience in PHP, Django, and reinforcing my frontend Javascript skills. Towards the last months I was also involved in an Android collaboration with Coca-Cola for the 2014 Sochi Winter Olympics.
+
+Summer 2012
+University College London - Centre for Advanced Spatial Analysis
+Research Intern
+I spent the summer of 2012 interning at an incredibly exciting department of the University College London. My main duty was assisting the department's researchers on producing data visualizations related to their current research project, which later would be used in the department's publications and talks.
+
+2012
+PAN Studio
+Freelance Developer
+I collaborated in a couple of projects of a London-based experience design studio. This was my first job as a developer and it mainly involved developing scripts to control sensors and screens in a sentient installation at La Gaite Lyrique, a museum in Paris, and making the MVP for a game which would later become Run an Empire.
+
+Education
+
+Goldsmiths, University of London
+B.A. Design
+Graduated 2013
+I graduated from a very experimental and research-oriented design programme at the leading arts and design university in the UK. My final project investigated the reuse of abandoned railways and started my deep interest for data visualization, as well as making me retake my passion for programming. 

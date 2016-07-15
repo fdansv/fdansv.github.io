@@ -1,58 +1,130 @@
 h1 {
-	font-family: 'EB Garamond';
-	font-size: 40px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 44px;
+    font-family: 'EB Garamond';
+    font-size: 40px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 44px;
 }
 h3 {
-	font-family: 'EB Garamond';
-	font-size: 30px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 500;
-	line-height: 33px;
+    font-family: 'EB Garamond';
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 33px;
 }
 p {
-	font-family: 'EB Garamond';
-	font-size: 20px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 28.5714px;
+    font-family: 'EB Garamond';
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 28.5714px;
 }
 blockquote {
-	font-family: 'EB Garamond';
-	font-size: 21px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 30px;
+    font-family: 'EB Garamond';
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 30px;
 }
 pre {
-	font-family: 'EB Garamond';
-	font-size: 13px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 18.5714px;
+    font-family: 'EB Garamond';
+    font-size: 13px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 18.5714px;
 }
 
 .end {
-	height:100px;
+    height:100px;
 }
 .margintooltip {
-	font-family: 'EB Garamond';
+    font-family: 'EB Garamond';
 }
 
 .header {
-	position: relative;
+    position: relative;
+    height: 200px;
+    background-color: #162945;
+}
+.bigname { 
+  font-size: 60px;
+  line-height: 50px;
+}
+
+.resume {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-size: 10px;
 }
 
 .credit {
-	position: absolute;
-	bottom: 5px;
-	right: 18px;
-	color: ivory;
+    position: absolute;
+    bottom: 5px;
+    right: 18px;
+    color: ivory;
+}
+
+.biopic {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: ivory;
+  text-align: center;
+}
+
+.biopic p {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-size: 20px;
+  line-height: normal;
+  line-height: 18px;
+}
+
+.category {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 40px;
+  font-style: italic;
+  line-height: 60px;
+}
+
+.jobtitle, .cattitle {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding-left: 45px;
+  line-height: 18px;
+}
+
+.cattitle {
+  text-align: center;
+}
+
+.mytech {
+  background-color: #162945;
+  color: #fff;
+}
+
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.description {
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.description p {
+  font-size: 16px;
+}
+
+.section {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
