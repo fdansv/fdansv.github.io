@@ -46,9 +46,26 @@ pre {
 	position: relative;
 }
 
-.credit {
-	position: absolute;
-	bottom: 5px;
-	right: 18px;
-	color: ivory;
+.container .blog p{
+	line-height: 1.5em;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.container .blog p:last-of-type{
+	margin-bottom: 130px;
+}
+
+.container .blog h2{
+	line-height: 2em;
+}
+
+.container .blog img {
+	width: 100%;
+}
+
+@media (min-width: 1200px){
+	.container .blog{
+	    width: 750px!important;
+	}
 }
